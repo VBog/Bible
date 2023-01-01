@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<filelist>
+  <file>
+    <filename>be.zip</filename>
+    <name>Беларуская мова</name>
+    <about>Біблія (Евангелле і Апостал) на беларускай мове. Пераклад Біблейскай камісіі Беларускай Праваслаўнай Царквы.</about>
+  </file>
+  <file>
+    <filename>cu.zip</filename>
+    <name>Церковно-славянский язык</name>
+    <about>Елизаветинская Библия на церковно-славянском языке.</about>
+  </file>
+  <file>
+    <filename>en.zip</filename>
+    <name>English</name>
+   <about>Bible in English. Based on King James Version.</about>
+  </file>
+  <file>
+    <filename>en_kjv.zip</filename>
+    <name>English (KJV)</name>
+    <about>Bible in English. Original King James Version.</about>
+  </file>
+  <file>
+    <filename>ru.zip</filename>
+    <name>Русский язык</name>
+    <about>Библия на русском языке. Синодальный перевод.</about>
+  </file>
+  <file>
+    <filename>sr.zip</filename>
+    <name>Српски језик</name>
+    <about>Biblija na srpskom jeziku. Нови завет - синодални превод СПЦ. Стари завет - превод Даничић/Караџић.</about>
+  </file>
+  <file>
+    <filename>uk.zip</filename>
+    <name>Українська мова</name>
+    <about>Біблія українською мовою. Переклад І.І.Огіенко</about>
+  </file>
+</filelist>
